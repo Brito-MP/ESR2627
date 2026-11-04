@@ -8,7 +8,7 @@ from types import MappingProxyType
 
 MAX_NEIGHBORS = 4
 
-r"""
+"""
                             (Neighbor)
 Content -> Server -> Node -> Node... -> Client
           \______________ Flow _____________/  
